@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hello, I am a FullStack && Big Data Developer also builds react native apps for fun
 
-- 🔭 I’m currently working on C# and React
+- 🔭 I’m currently working on C# & Angular && Python & React
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with better coding
 - 💬 Ask me about anything
