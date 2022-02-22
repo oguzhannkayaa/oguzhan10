@@ -1,5 +1,15 @@
 ### Hi there 👋
 Hello, I am a FullStack && Big Data Developer also builds react native apps for fun
+
+- 🔭 I’m currently working on C# and React
+- 🌱 I’m currently learning Java
+- 🤔 I’m looking for help with better coding
+- 💬 Ask me about anything
+- 📫 How to reach me: with a message
+- 😄 Pronouns: FullStack web developer && Big Data Senior Engineer
+- ⚡ Fun fact: I am also building react native mobile apps
+
+
 <!--
 **oguzhan10/oguzhan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
